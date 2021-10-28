@@ -109,88 +109,6 @@
 			</ScaleRuler>
 			<CurrentLevel>1635347793014</CurrentLevel>
 			<ConnectionsId>1635347793010</ConnectionsId>
-			<TrafficLight>
-				<Id>1635369748455</Id>
-				<Name><![CDATA[trafficLight]]></Name>
-				<X>530</X><Y>140</Y>
-				<Label><X>0</X><Y>-20</Y></Label>
-				<PublicFlag>false</PublicFlag>
-				<PresentationFlag>true</PresentationFlag>
-				<ShowLabel>true</ShowLabel>
-				<Type>JUNCTION_DIRECTION_LINES</Type>
-				<Junction>1635347982894</Junction>
-				<Line>1635350909866</Line>
-				<Line>1635350909867</Line>
-				<Line>1635350944294</Line>
-				<Line>1635350944295</Line>
-				<Line>1635350944296</Line>
-				<Line>1635350944297</Line>
-				<Line>1635350944298</Line>
-				<Line>1635350955412</Line>
-				<Line>1635350955413</Line>
-				<Line>1635350955414</Line>
-				<Line>1635350955415</Line>
-				<Line>1635350955416</Line>
-				<Line>1635350955417</Line>
-				<Line>1635350955418</Line>
-				<Line>1635350955419</Line>
-				<Line>1635350955420</Line>
-				<Line>1635350963806</Line>
-				<Line>1635350963807</Line>
-				<Line>1635350963808</Line>
-				<Line>1635350963809</Line>
-				<Line>1635350963810</Line>
-				<Duration Class="CodeValue">
-					<Code><![CDATA[20]]></Code>
-				</Duration>
-				<Duration Class="CodeValue">
-					<Code><![CDATA[10]]></Code>
-				</Duration>
-				<DefaultState>RED</DefaultState>
-				<DefaultState>RED</DefaultState>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>GREEN</State>
-				<State>RED</State>
-				<State>RED</State>
-				<State>GREEN</State>
-			</TrafficLight>
 			<Connectors>
 				<Connector>
 					<Id>1635348107978</Id>
@@ -1052,13 +970,13 @@
 						<Parameter>
 							<Name><![CDATA[probability2]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.25]]></Code>
+								<Code><![CDATA[0.35]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[probability3]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.25]]></Code>
+								<Code><![CDATA[0.8]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -1349,7 +1267,7 @@
 						<Parameter>
 							<Name><![CDATA[road]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[PjeDelParaizo]]></Code>
+								<Code><![CDATA[PjeDelParaiso]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -1508,7 +1426,7 @@
 						<Parameter>
 							<Name><![CDATA[rate]]></Name>
 							<Value Class="CodeUnitValue">
-								<Code><![CDATA[7464]]></Code>
+								<Code><![CDATA[1500]]></Code>
 								<Unit Class="RateUnits"><![CDATA[PER_HOUR]]></Unit>
 							</Value>
 						</Parameter>
@@ -1660,8 +1578,8 @@
 						<Parameter>
 							<Name><![CDATA[rate]]></Name>
 							<Value Class="CodeUnitValue">
-								<Code><![CDATA[7464]]></Code>
-								<Unit Class="RateUnits"><![CDATA[PER_MINUTE]]></Unit>
+								<Code><![CDATA[11464]]></Code>
+								<Unit Class="RateUnits"><![CDATA[PER_HOUR]]></Unit>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -1830,13 +1748,13 @@
 						<Parameter>
 							<Name><![CDATA[probability2]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.25]]></Code>
+								<Code><![CDATA[0.35]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[probability3]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.25]]></Code>
+								<Code><![CDATA[0.8]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -1938,7 +1856,7 @@
 						<Parameter>
 							<Name><![CDATA[road]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[PjeDelParaizo]]></Code>
+								<Code><![CDATA[PjeDelParaiso]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -2167,7 +2085,7 @@
 						<Parameter>
 							<Name><![CDATA[road]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[PjeDelParaizo]]></Code>
+								<Code><![CDATA[PjeDelParaiso]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -2297,7 +2215,7 @@
 						<Parameter>
 							<Name><![CDATA[probability2]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.25]]></Code>
+								<Code><![CDATA[0.35]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -3459,7 +3377,7 @@
 				</Road>
 				<Road TargetId="1635347982894">
 					<Id>1635350943193</Id>
-					<Name><![CDATA[PjeDelParaizo]]></Name>
+					<Name><![CDATA[PjeDelParaiso]]></Name>
 					<X>660</X><Y>250</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
