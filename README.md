@@ -1,5 +1,5 @@
 # Simulacion
-<p> Para acceder a el informe de cada tarea Click en el siguiente hipervinculo: &#9977; </p>
+<p> Para acceder a el informe de cada tarea Click en el Primer hipervinculo: <a href="#"> Tarea#</a> </p>
 <p>Para acceder al codigo fuente Click en el siguiente hipervinculo: &#128209;</p>
 <h1>Actividades #4 : </h1>
 <ul>
