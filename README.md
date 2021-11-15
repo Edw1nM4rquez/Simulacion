@@ -15,7 +15,7 @@
       <a href="https://github.com/Edw1nM4rquez/Simulacion/tree/master/WorkSpace/Vias1-Sim">&#128209;</a>
   </li>
   <li>
-    <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Regresion%20-%20Fifa/Informe_FIFA.pdf"> Tarea 4.-</a> <span style='font-size:100px;'>&#128663; Regresion - FIFA </span>
+    <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Regresion%20-%20Fifa/Informe_FIFA.pdf"> Tarea 4.-</a> <span style='font-size:100px;'>&#127952; Regresion - FIFA </span>
       <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Regresion%20-%20Fifa/Simulacion_Fifa.ipynb">&#128209;</a>
   </li>
   
