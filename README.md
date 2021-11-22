@@ -20,7 +20,7 @@
   </li>
   
   <li>
-    <a href="https://github.com/Edw1nM4rquez/Simulacion/tree/master/Algoritmo%20Tausworthe"> Tarea 4.-</a> <span style='font-size:100px;'>&#128257; Algoritmo Tausworthe </span>
+    <a href="https://github.com/Edw1nM4rquez/Simulacion/tree/master/Algoritmo%20Tausworthe"> Tarea 5.-</a> <span style='font-size:100px;'>&#128257; Algoritmo Tausworthe </span>
       <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Algoritmo%20Tausworthe/Generators_Tausworthe.ipynb">&#128209;</a>
   </li>
   
