@@ -24,11 +24,3 @@
       <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Algoritmo%20Tausworthe/Generators_Tausworthe.ipynb">&#128209;</a>
   </li>
 </ul>
-
-<button onclick="myFunction()">Me gusta !</button>
-
-<script>
-function myFunction() {
-  alert("Hola soy Edwin!");
-}
-</script>
