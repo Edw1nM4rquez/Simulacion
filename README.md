@@ -25,6 +25,7 @@
   </li>
 </ul>
 <h1>Prueba #1</h1>
+<p>Para entrar en CodeLabs haga click en el hipervinculo : <span style="color: blue">Prueba 1</span></p>
 <ul>
   <li>
     <a href="https://colab.research.google.com/drive/1pYpqdZsWI20AjI21XEbfF370-DgJqWMK?usp=sharing">Prueba 1</a>
