@@ -28,7 +28,7 @@
 <p>Para entrar en CodeLabs haga click en el hipervinculo : <span style="color: blue">Prueba 1 - Code Lab</span></p>
 <ul>
    <li>
-     <p>Al vizualizar el cuaderno de jupiter ir hacia final (al realizar el tratamientos de datos se ha generado un print que ocupa la mayoria de espacio dela presentacion) Gracias &#128175; </p>
+     <p>Al vizualizar el cuaderno de jupiter ir hacia final (al realizar el tratamientos de datos se ha generado un print que ocupa la mayoria de espacio de la presentacion) Gracias &#128175; </p>
     <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Prueba%201/Prueba1_Simulacion.ipynb">Prueba 1 - Cuaderno de Jupiter &#128220; </a>
   </li>
   <li>
