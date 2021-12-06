@@ -24,3 +24,9 @@
       <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Algoritmo%20Tausworthe/Generators_Tausworthe.ipynb">&#128209;</a>
   </li>
 </ul>
+<h1>Prueba #1</h1>
+<ul>
+  <li>
+    <a href="https://colab.research.google.com/drive/1pYpqdZsWI20AjI21XEbfF370-DgJqWMK?usp=sharing">Prueba 1</a>
+  </li>
+</ul>
