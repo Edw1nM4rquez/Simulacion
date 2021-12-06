@@ -25,13 +25,13 @@
   </li>
 </ul>
 <h1>Prueba #1</h1>
-<p>Para entrar en CodeLabs haga click en el hipervinculo : <span style="color: blue">Prueba 1</span></p>
+<p>Para entrar en CodeLabs haga click en el hipervinculo : <span style="color: blue">Prueba 1 - Code Lab</span></p>
 <ul>
    <li>
-    <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Prueba%201/Prueba1_Simulacion.ipynb">Prueba 1 Cuaderno de Jupiter </a>
+    <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Prueba%201/Prueba1_Simulacion.ipynb">Prueba 1 - Cuaderno de Jupiter </a>
   </li>
   <li>
-    <a href="https://colab.research.google.com/drive/1pYpqdZsWI20AjI21XEbfF370-DgJqWMK?usp=sharing">Prueba 1 CodeLab </a>
+    <a href="https://colab.research.google.com/drive/1pYpqdZsWI20AjI21XEbfF370-DgJqWMK?usp=sharing">Prueba 1 - CodeLab </a>
     <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Prueba%201/Link_CodeLab.txt"> &#128209; <a/>
   </li>
   <li>
