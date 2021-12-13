@@ -24,7 +24,7 @@
   
   <li>
     <a href="https://github.com/Edw1nM4rquez/Simulacion/tree/master/Algoritmo%20Tausworthe"> Tarea 6.-</a> <span style='font-size:100px;'>&#128257; Algoritmo Tausworthe </span>
-      <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Algoritmo%20Tausworthe/Generators_Tausworthe.ipynb">&#128209;</a>
+      <a href="https://colab.research.google.com/drive/1RQg94QxXjthOtW34sOqHyVaw5DufjN9t?usp=sharing">&#128209;</a>
   </li>
 </ul>
 <h1>Prueba #1</h1>
