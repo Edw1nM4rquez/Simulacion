@@ -38,4 +38,7 @@
   <li>
     <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Reporte%20-%20HTML/report-718%20(1).html">Reporte generador por la aplicaion creada (Descargar para visualizarlo) &#9989;</a>
   </li>
+  <li>
+    <a href="https://colab.research.google.com/drive/1b2RkELCeX1OU-drhwIkjDQDIWsiFSw6i?usp=sharing"> Puntos Extra &#9200; </a>
+    </li>
 </ul>
