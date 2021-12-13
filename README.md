@@ -10,6 +10,9 @@
    <li>
     <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/Dados/Simulacion_.ipynb"> Tarea 2.-</a> <span style='font-size:100px;'>&#127922; Lanzamiento de dados</span>
   </li>
+  <li>
+    <a href="https://colab.research.google.com/drive/1ejPAKgSUBHH-VQrkkOPC1PC15VT-a5VO?usp=sharing"> Tarea3.- </a><span>&#127748; Monte-Carlo</span>
+  </li>
     <li>
     <a href="https://github.com/Edw1nM4rquez/Simulacion/blob/master/PIB%20-%20Trafico.pdf"> Tarea 3.-</a> <span style='font-size:100px;'>&#128663; PBI- Trafico</span>
       <a href="https://github.com/Edw1nM4rquez/Simulacion/tree/master/WorkSpace/Vias1-Sim">&#128209;</a>
